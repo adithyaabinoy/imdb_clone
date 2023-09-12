@@ -1,0 +1,17 @@
+.navbar {
+display: flex;
+gap: 20px;
+align-items: center;
+height: 60px;
+margin-left: 30px;
+font-size: 15px;
+cursor: pointer;
+}
+
+.logo {
+    width: 80px;  
+}
+
+.links:hover {
+    color: red;
+}
