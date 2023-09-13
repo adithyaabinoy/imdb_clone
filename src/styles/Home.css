@@ -1,0 +1,39 @@
+.poster_image{
+    height: 600px;
+
+}
+
+.poster_info  {
+    position: absolute;
+    top: 60%;
+    padding: 3rem;
+   
+
+    
+}
+.title {
+    font-size: 45px;
+    text-align: left;
+    font-weight: 800;
+    
+}
+
+.release_date {
+    font-size: 25px;
+    display: flex;
+    gap: 20px;
+    font-weight: 600;
+    
+}
+
+.description {
+    font-size: 15px;
+}
+
+.home_popular {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+   padding: 100px;
+   gap: 15px;
+}

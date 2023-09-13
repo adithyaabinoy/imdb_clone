@@ -1,0 +1,36 @@
+.card {
+    height: 300px;
+    width: 200px;
+    border: 1px solid #000;
+    border-radius: 18px;
+    position: relative;
+}
+
+.image {
+    height: 300px;
+    width: 200px;
+}
+
+.card_info {
+    position: absolute;
+    top: 100px;
+    display: none;
+}
+
+.card_title {
+    font-weight: 900;
+    font-size: 30px;
+}
+
+.card_rating {
+    display: flex;
+    justify-content: space-between;
+}
+
+.card_description {
+    width: 100px;   
+}
+
+.card_info:hover {
+    
+}
