@@ -31,6 +31,9 @@
     width: 100px;   
 }
 
-.card_info:hover {
-    
-}
+.card:hover {
+    transform: scale(1.2);
+.card_info{
+    display: block;
+}}
+
